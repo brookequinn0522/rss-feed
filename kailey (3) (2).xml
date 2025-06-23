@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Business Digest</title>
+    <link>https://chatdigest.ai/</link>
+    <description>A daily digest of news for selected companies.</description>
+    <language>en-us</language>
+    <pubDate>Mon, 23 Jun 2025 20:53:14 GMT</pubDate>
+
+    <item>
+      <title>Slack Test: Cigna Expands Virtual Care Offerings</title>
+      <link>https://www.businesswire.com/news/home/20240623005200/en/Cigna-Expands-Virtual-Care</link>
+      <description>Cigna announces a major expansion to its virtual care services in partnership with leading telehealth platforms.</description>
+      <pubDate>Mon, 23 Jun 2025 20:53:14 GMT</pubDate>
+      <guid>https://www.businesswire.com/news/home/20240623005200/en/Cigna-Expands-Virtual-Care</guid>
+    </item>
+  </channel>
+</rss>
