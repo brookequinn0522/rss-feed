@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Business Digest</title>
+    <link>https://example.com</link>
+    <description>A daily digest of news for selected companies.</description>
+    <language>en-us</language>
+    <pubDate>Mon, 23 Jun 2025 19:22:32 GMT</pubDate>
+    <item>
+      <title>Slack integration test article</title>
+      <link>https://example.com/slack-test</link>
+      <description>This is a test article to confirm Slack feed integration is working.</description>
+      <pubDate>Mon, 23 Jun 2025 19:22:32 GMT</pubDate>
+      <guid>https://example.com/slack-test</guid>
+    </item>
+  </channel>
+</rss>
