@@ -1,2 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Daily Business Digest</title><link>https://example.com</link><description>A daily digest of news for selected companies.</description><language>en-us</language><pubDate>Mon, 23 Jun 2025 14:03:32 GMT</pubDate><item><title>Example Company announces Q2 results</title><link>https://example.com/q2-results</link><description>Example Company posted strong revenue growth in Q2 2025.</description><pubDate>Mon, 23 Jun 2025 14:03:32 GMT</pubDate><guid>https://example.com/q2-results</guid></item><item><title>Example Company announces Q2 results</title><link>https://example.com/q2-results</link><description>Example Company posted strong revenue growth in Q2 2025.</description><pubDate>Tue, 24 Jun 2025 13:46:00 GMT</pubDate><guid>https://example.com/q2-results</guid></item><item><title>Example Company announces Q2 results</title><link>https://example.com/q2-results</link><description>Example Company posted strong revenue growth in Q2 2025.</description><pubDate>Wed, 25 Jun 2025 13:47:02 GMT</pubDate><guid>https://example.com/q2-results</guid></item></channel></rss>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Business Digest</title>
+    <link>https://chatdigest.ai/</link>
+    <description>A daily digest of news for selected companies.</description>
+    <language>en-us</language>
+    <pubDate>Wed, 25 Jun 2025 14:00:00 GMT</pubDate>
+  </channel>
+</rss>
