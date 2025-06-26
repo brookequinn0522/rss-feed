@@ -1,10 +1,18 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>Daily Business Digest</title>
     <link>https://chatdigest.ai/</link>
     <description>A daily digest of news for selected companies.</description>
     <language>en-us</language>
-    <pubDate>Wed, 25 Jun 2025 14:00:00 GMT</pubDate>
-  <item><title>Example Company announces Q2 results</title><link>https://example.com/q2-results</link><description>Example Company posted strong revenue growth in Q2 2025.</description><pubDate>Thu, 26 Jun 2025 13:44:53 GMT</pubDate><guid>https://example.com/q2-results</guid></item></channel>
+    <pubDate>Wed, 26 Jun 2025 14:00:00 GMT</pubDate>
+
+    <item>
+      <title>Daily Dad Joke</title>
+      <link>https://example.com/dad-joke</link>
+      <description>Why did the golfer bring two pairs of pants? In case he got a hole in one.</description>
+      <pubDate>Wed, 26 Jun 2025 14:00:00 GMT</pubDate>
+      <guid>https://example.com/dad-joke-20250626140000</guid>
+    </item>
+  </channel>
 </rss>
